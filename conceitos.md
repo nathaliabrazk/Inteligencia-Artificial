@@ -54,6 +54,8 @@ O **machine learning** se divide em três paradigmas principais, cada um adequad
 
 **IA discriminativa -** Esses modelos não criam novos dados; em vez disso, aprendem a fronteira entre classes para classificar entradas ou prever valores futuros.
 
+**IA subsimbólica -** é uma abordagem de inteligência artificial que aprende diretamente a partir de dados brutos e padrões numéricos, sem usar regras ou símbolos lógicos criados por humanos.
+
 **IA preditiva -** Envolve o uso de análise estatística e aprendizado de máquina (ML) para identificar padrões, antecipar comportamentos e prever eventos futuros. As organizações utilizam a IA preditiva para prever possíveis resultados futuros, causas, exposição a riscos e muito mais.
 
 **IA Estreita (ou Fraca) -** Refere-se a sistemas projetados e treinados para realizar uma tarefa específica sem a consciência de sua própria existência. Esses sistemas operam sob um conjunto limitado de condições e para fins específicos. Exemplos incluem reconhecimento de voz, assistentes virtuais como Siri e Alexa, e sistemas de recomendação, como os usados por plataformas de streaming de vídeo e lojas online. A IA Estreita é a forma mais comum de inteligência artificial e está integrada em muitas das tecnologias que usamos diariamente.
