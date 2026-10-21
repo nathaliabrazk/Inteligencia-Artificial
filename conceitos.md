@@ -19,6 +19,13 @@ Isso é chamado de “aprendizado de máquina”.
 
 Por exemplo, um sistema de IA pode aprender a identificar imagens de gatos depois de analisar milhares de imagens de gatos.
 
+### Datas
+
+**Conferência de Dartmouth 1956** a IA é considerada como tendo nascido como um campo de estudo.
+
+**Era do otimismo (décadas de 1950 e 1960) -** Há grandes expectativas em relação à chegada das mpáquinas inteligentes.
+
+**Inverno da IA -** Um período de desilusão e redução de financiamento porque o progresso não correspondeu às expectativas. O **primeiro inverno** de 1974 a 1980 e o segundo inverno de 1987 a 1993 (com efeitos estendidos até o final da década de 1990
 ### Conceitos
 
 **Machine Learning -** é um subconjunto da IA que foca em sistemas que aprendem com dados e melhoram sem serem explicitamente programados para cada regra. Em vez de escrever código do tipo “se isso, então aquilo”, você alimenta o algoritmo com dados e deixa que ele encontre padrões.
